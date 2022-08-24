@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.planx5",
+      "sha256_cert_fingerprints":
+        ["67:0B:78:4D:51:0D:2E:4D:B8:59:36:B0:C9:11:86:40:18:D0:0D:5D:F7:30:36:C8:CA:91:AD:5F:D7:8E:0A:52"]
+    }
+  }
+]
